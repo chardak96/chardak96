@@ -5,8 +5,7 @@ Thanks for stopping by. I'm Dimitar and I'm currently on a self-taught journey t
 
 Skills: JAVA / PostgreSQL
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 I’m currently working on honing my skills, acquiring knowledge and obtaining ServiceNow CSA certification.
 
 
 
